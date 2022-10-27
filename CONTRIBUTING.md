@@ -10,6 +10,9 @@ Summary
 -------
 This document covers how to contribute to an Okta Open Source project. These instructions assume you have a GitHub.com account, so if you don't have one you will have to create one. Your proposed code changes will be published to your own fork of the Okta Management SDK project and you will submit a Pull Request for your changes to be added.
 
+_**Note**: Some contributions will require work that must be verified by other teams at Okta. In the event your contribution requires more verification, we may close your pull request and link your contribution to a pull request submitted by our internal teams. This is to make sure your additions are shared with the broader team so we can improve our APIs and SDKs._
+
+
 _Lets get started!!!_
 
 
